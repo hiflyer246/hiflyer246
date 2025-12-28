@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science & Engineering (AI) student<br> Passionate about Artificial Intelligence, Machine Learning, and Software Development<br> Focused on building practical, problem-solving projects rather than just theory<br>Work on AI/ML and Computer Vision projects<br><br> Strong foundation in Data Structures & Algorithms<br><br> Develop applications using Python, JavaScript, React, and FastAPI<br><br> Interested in Blockchain, Cryptography, and Secure Systems<br><br> Experience with Databases (MongoDB, SQL) and backend logic<br>Languages: Python, C++, Java, JavaScript<br><br>AI/ML: OpenCV, Deep Learning basics, NLP, Emotion Recognition<br><br>Web: React.js, FastAPI, REST APIs<br><br>Databases: MongoDB, MySQL<br><br>Tools: Git, GitHub, Linux (Ubuntu)<br><br>Building AI-powered academic projects<br><br>Improving problem-solving and system design skills<br><br>Exploring real-world applications of AI and Blockchain<br><br>Adaptable learner with strong perseverance<br><br>Believe in learning by building<br><br>Constantly improving code quality and understanding<br><br>
+Computer Science & Engineering (AI) student<br> Passionate about Artificial Intelligence, Machine Learning, and Software Development<br> Focused on building practical, problem-solving projects rather than just theory<br>Work on AI/ML <br><br>
 
 
 ## 🌐 Socials:
